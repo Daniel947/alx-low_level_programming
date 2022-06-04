@@ -12,7 +12,7 @@ int main(void)
 {
 	/* Variable for storing the alphabets*/
 	char alphabet;
-	
+
 	/* Looping through the alpahbets with for-loop */
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
