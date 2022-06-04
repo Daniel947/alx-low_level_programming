@@ -6,7 +6,7 @@
 * Return: Always 0.
 * Author: Daniel Yamoah
 */
-int main()
+int main(void)
 {
 	/* Variable for storing the alphabets*/
        	char alphabet = 'a';
