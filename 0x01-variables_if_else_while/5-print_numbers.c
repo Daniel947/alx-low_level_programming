@@ -1,12 +1,14 @@
 #include <stdio.h>
 /*
 *
-* main - Entry  code function.
+* main - Entry function.
 * Return: Always 0.
-* Author: Daniel Yamoah. 
-*/ 
+* Author: Daniel Yamoah.
+*
+* main - Entry function.
+*/
 int main(void)
 {
-	printf("012356789\n");
+	printf("0123456789\n");
 	return (0);
 }
