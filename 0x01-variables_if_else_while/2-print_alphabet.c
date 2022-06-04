@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include <ctype.h>
 /**
 *
 * main - Lanzandor.
@@ -8,13 +9,14 @@
 */
 int main(void)
 {
-	/* Variable for storing the alphabets*/
-       	char alphabet = 'a';
-	/* Looping through the alpahbets with for-loop */
-	for (alphabet; alphabet <= 'z'; alphabet++)
-	{
-		putchar(alphabet);
-	}
-	putchar('\n');
-	return (0);
+/* Variable for storing the alphabets*/
+char alphabet = 'a';
+
+/* Looping through the alpahbets with for-loop */
+for (alphabet; alphabet <= 'z'; alphabet++)
+{
+	putchar(alphabet);
+}
+putchar('\n');
+return (0);
 }
