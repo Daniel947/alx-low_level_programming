@@ -2,11 +2,11 @@
 #include <stdio.h>
 #include <time.h>
 /**
-* more headers goes there
-* betty style doc for function main goes there
-* The code starts with the main function
-* Main--- if and else statements
 *
+*
+* main - code start point
+*
+* Return: Always 0
 * Author : Daniel Yamoah
 *
 **/
