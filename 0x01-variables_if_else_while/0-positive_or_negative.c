@@ -2,14 +2,12 @@
 #include <stdio.h>
 #include <time.h>
 /**
-*
-*
-* main - code start point
+* main - Lazandor
 *
 * Return: Always 0
 * Author : Daniel Yamoah
 *
-**/
+*/
 int main(void)
 
 {
