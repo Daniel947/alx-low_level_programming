@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
-/*
+/**
 * 
 * main - Entry code function.
 *
@@ -17,7 +17,7 @@ char alphabet;
 /* Looping through the alpahbets with for-loop */
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-        putchar(alphabet);
+       	putchar(alphabet);
 }
 putchar('\n');
 return (0);
