@@ -1,6 +1,5 @@
 #include <stdio.h>
-/*
-*
+/**
 * main - Entry code function.
 *
 * Return: Always 0.
