@@ -1,6 +1,5 @@
 #include <stdio.h>
-/*
-*
+/**
 * main - Entry function.
 *
 * Return: Always 0.
