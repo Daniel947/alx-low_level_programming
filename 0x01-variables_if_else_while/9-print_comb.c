@@ -1,6 +1,5 @@
 #include <stdio.h>
 /**
-*
 * main - Entry to code.
 *
 * Return: Always 0.
@@ -11,11 +10,12 @@ int main(void)
 {
 	int comb;
 
-	for (comb = '0'; comb <= '9'; comb++)
+	for (comb = 48; comb <= 57; comb++)
 	{
 		putchar(comb);
-        putchar(',');
-        putchar(' ');
+        
+        putchar(',');  
+        putchar(' ');   
 	}
 	putchar('\n');
 	return (0);
