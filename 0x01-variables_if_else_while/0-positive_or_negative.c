@@ -1,13 +1,15 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/** more headers goes there 
+/**
+*  more headers goes there 
 * betty style doc for function main goes there 
 * The code starts with the main function
 * Main--- if and else statements
+*
 * Author : Daniel Yamoah
 * 
-* */
+**/
 int main(void)
 
 {
