@@ -21,7 +21,7 @@ int main(void)
 	}
 	/*Print the positive value of n*/
 	else{
-		printf("%d is positive",n);
+		printf("%d is positive\n",n);
 	}
 	return (0);
 }
