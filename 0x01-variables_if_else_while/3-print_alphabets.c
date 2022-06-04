@@ -5,7 +5,7 @@
 *
 * Return: Always 0.
 *
-* Author:Daniel Yamoah 
+* Author: Daniel Yamoah
 */
 int main(void)
 {
