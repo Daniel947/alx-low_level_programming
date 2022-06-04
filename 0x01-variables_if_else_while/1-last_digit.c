@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <time.h>
 /**
-* main - Lazandor
-* Return : Always 0.
+* main - Lazandor.
+* Return: Always 0.
 * Author : Daniel Yamoah
 *
 */
