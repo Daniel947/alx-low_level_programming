@@ -1,9 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
-/**
-*
-* main - Lanzandor.
+/*
+* main - Entry code function.
 * Return: Always 0.
 * Author: Daniel Yamoah
 */
