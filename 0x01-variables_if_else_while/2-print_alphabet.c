@@ -9,7 +9,7 @@
 int main()
 {
 	/* Variable for storing the alphabets*/
-       	int alphabet = 'a';
+       	char alphabet = 'a';
 	/* Looping through the alpahbets with for-loop */
 	for (alphabet; alphabet <= 'z'; alphabet++)
 	{
