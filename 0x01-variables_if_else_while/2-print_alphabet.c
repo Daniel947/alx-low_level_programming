@@ -10,10 +10,10 @@
 int main(void)
 {
 /* Variable for storing the alphabets*/
-char alphabet = 'a';
+char alphabet;
 
 /* Looping through the alpahbets with for-loop */
-for (alphabet; alphabet <= 'z'; alphabet++)
+for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 	putchar(alphabet);
 }
