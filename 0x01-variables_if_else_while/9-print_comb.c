@@ -10,10 +10,9 @@ int main(void)
 {
 	int comb;
 
-	
 	for (comb = 48; comb <= 57; comb++)
 	{
-		if (comb == 57)
+		if (comb == 58)
 		{
 			break;
 		}
