@@ -12,7 +12,7 @@ int main(void)
 
   for (comb = '0'; comb <= '9'; comb++)
   {
-    if (comb == '9')
+    if (comb == 10)
     {
       break;
     }
