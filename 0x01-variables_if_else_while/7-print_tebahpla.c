@@ -8,12 +8,12 @@
 */
 int main(void)
 {
-        int numberz;
-        
-        for (numberz = 'z'; numberz >= 'a'; numberz--)
-        {
-                putchar(numberz);
-        }
-        putchar('\n');
-        return (0);
+  int numberz;
+
+  for (numberz = 'z'; numberz >= 'a'; numberz--)
+  {
+    putchar(numberz);
+  }
+  putchar('\n');
+  return (0);
 }
