@@ -8,17 +8,18 @@
 */
 int main(void)
 {
-  int comb;
-  for (comb = 48; comb <= 57; comb++)
-  {
-    if (comb == 57)
-    {
-      break;
-    }
-    putchar(comb);
-    putchar(',');
-    putchar(' ');
-  }
-  putchar('\n');
-  return (0);
+	int comb;
+	
+	for (comb = 48; comb <= 57; comb++)
+	{
+		if (comb == 57)
+		{
+			break;
+		}
+		putchar(comb);
+		putchar(',');
+		putchar(' ');
+	}
+	putchar('\n');
+	return (0);
 }
