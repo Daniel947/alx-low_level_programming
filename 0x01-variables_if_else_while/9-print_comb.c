@@ -9,6 +9,7 @@
 int main(void)
 {
 	int comb;
+
 	
 	for (comb = 48; comb <= 57; comb++)
 	{
