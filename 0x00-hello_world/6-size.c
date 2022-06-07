@@ -20,5 +20,4 @@ int main(void)
 	printf("size of a long long: %d byte(s) \n", long_long);
 	printf("size of a float: %d byte(s) \n", float_1);
 	return (0);
-	
 }
