@@ -12,6 +12,10 @@ int main(void)
 	
 	for (comb = 48; comb <= 57; comb++)
 	{
+		if (comb == 58)
+		{
+			break;
+		}
 		putchar(comb);
 		putchar(',');
 		putchar(' ');
