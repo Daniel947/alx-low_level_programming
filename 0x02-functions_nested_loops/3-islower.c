@@ -2,7 +2,7 @@
 /**
  * _islower - Entry function
  * Return: 1 if c is lower
- * Return: 0 if c is anything else.
+ * 0 if c is anything else.
  *
  * Author: Daniel Yamoah
  */
