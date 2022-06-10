@@ -1,25 +1,21 @@
-#include "codestd.h"
+#include "main.h"
 /**
  * _islower - Entry function
  *
  * Return: always 0 (success).
  *
+ * Return: 1 if c is lower
+ * Return: 0 if c is anything else
  * Author: Daniel Yamoah
  */
 int _islower(int c)
 {
-	int a;
-
-	for (a = 'a'; a <= 'z'; a++)
+	if (c >= 'a'  && c <= 'z')
 	{
-		if (a == c)
-		{
-			return(1);
-		}
-		else
-		{
-			return (0);
-		}
+		return (1);
 	}
-	return (0);
+	else
+	{
+		return (0);
+	}
 }
