@@ -1,25 +1,20 @@
 #include "main.h"
 /**
- * _islower - Entry function
- *
- * Return: always 0 (success).
+ * _islower - Entry function for checking lowercase
+ * 
+ * Return: 1 if c is lower.
+ * 0 if c is anthing not lower or letter
  *
  * Author: Daniel Yamoah
  */
 int _islower(int c)
 {
-	int a;
-
-	for (a = 'a'; a <= 'z'; a++)
+	if (c >= 'a' && c <= 'z')
 	{
-		if (c <= a && c >= a)
-		{
-			return (1);
-		}
-		else
-		{
-			return (0);
-		}
+		return (1);
 	}
-	return (1);
+	else
+	{
+		return (0);
+	}
 }
