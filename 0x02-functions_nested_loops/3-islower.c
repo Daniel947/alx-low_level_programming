@@ -14,12 +14,12 @@ int _islower(int c)
 	{
 		if (a == c)
 		{
-			return(1);
+			return (1);
 		}
 		else
 		{
 			return (0);
 		}
 	}
-	return (0);
+	return (1);
 }

@@ -7,7 +7,7 @@
  *
  * Author: Daniel Yamoah
  */
-int main(void) 
+int main(void)
 {
 	char alphabet[8] = "_putchar";
 	int a = 0;
@@ -18,5 +18,5 @@ int main(void)
 		a++;
 	}
 	_putchar('\n');
-	return 0;
+	return (0);
 }
