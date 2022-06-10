@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _islower - Entry function
+ * @c - letter checker
  * Return: 1 if c is lower
  * 0 if c is anything else.
  *
