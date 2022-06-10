@@ -2,8 +2,6 @@
 /**
  * _islower - Entry function
  *
- * Return: always 0 (success).
- *
  * Return: 1 if c is lower
  * Return: 0 if c is anything else
  * Author: Daniel Yamoah
