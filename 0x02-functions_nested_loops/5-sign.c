@@ -2,7 +2,7 @@
 /**
  * print_sign - Entry function.
  *
- * Return: 1 and print + if n is greater than zero
+ * Return: 0 or 1
  * @n - return zero and print zero if n is zero
  */
 int print_sign(int n)
