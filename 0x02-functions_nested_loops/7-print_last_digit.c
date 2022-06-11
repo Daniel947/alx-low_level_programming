@@ -2,12 +2,13 @@
 /**
  * print_last_digit - function for printing last digit of number
  * Return: 0 (success)
+ * @n - input int 
  * Author: Daniel Yamoah
  */
-int print_last_digit( int n)
+int print_last_digit(int n)
 {
 	int last;
-	
+
 	if (n < 0)
 		last = -1 * (n % 10);
 	else

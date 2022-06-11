@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * abs -function for finding absolute value of a number
+ * _abs -function for finding absolute value of a number
  * @n - value to fixed inside the function
  * Return: 0 (success)
  * Author: Daniel Yamoah

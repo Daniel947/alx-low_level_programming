@@ -2,7 +2,7 @@
 /**
  * times_table - function for printing times table
  * Return: 0 (success)
- * Author: Daniel Yamoah 
+ * Author: Daniel Yamoah
  */
 void times_table(void)
 {

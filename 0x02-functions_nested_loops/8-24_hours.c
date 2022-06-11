@@ -2,7 +2,7 @@
 /**
  * jack_bauer - entry function
  * Return: 0
- * Author: Daniel Yamoah 
+ * Author: Daniel Yamoah
  */
 void jack_bauer(void)
 {
@@ -28,11 +28,11 @@ void jack_bauer(void)
 				min1 = 0;
 				while (min1 <= 9)
 				{
-					_putchar('0'+hour2);
-					_putchar('0'+hour1);
+					_putchar('0' + hour2);
+					_putchar('0' + hour1);
 					_putchar(':');
-					_putchar('0'+min2);
-					_putchar('0'+min1);
+					_putchar('0' + min2);
+					_putchar('0' + min1);
 					_putchar('\n');
 					min1++;
 				}
