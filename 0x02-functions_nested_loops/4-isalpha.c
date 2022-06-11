@@ -1,11 +1,11 @@
 #include "main.h"
 /**
  * _isalpha - main function entry
- * @c : letter checker
- * Return: 1 if c is lower or upper
- * 0 if c anything else
+ * @n : letter checker
+ * Return: 1 or 0.
+ * Author: Daniel Yamoah
  */
-int _isalpha(int c)
+int _isalpha(int n)
 {
-	return ((c >= 97 && c <= 122) || (c <= 65 && c >= 90));
+	return ((n >= 97 && n <= 122) || (n <= 65 && n >= 90));
 }
