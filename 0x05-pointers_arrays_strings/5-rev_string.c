@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * rev_string - reverses a string 
- * Return: always 0. 
+ * rev_string - reverses a string
+ * Return: always 0.
  * @s : input parameter
  * Author : Daniel Yamoah
  */
