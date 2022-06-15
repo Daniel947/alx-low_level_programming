@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchars - print a string
+ * _puts - print a string
  * Return: 0.
  * @str : input parameter
  * Author: Daniel Yamoah
