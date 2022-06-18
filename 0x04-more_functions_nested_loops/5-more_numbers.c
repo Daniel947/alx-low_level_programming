@@ -3,7 +3,7 @@
 /**
  * more_numbers - for printing numbers
  * Return: 0 or 1
- * Author: Daniel Yamoah 
+ * Author: Daniel Yamoah
  */
 void more_numbers(void)
 {

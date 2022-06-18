@@ -5,11 +5,11 @@
  * @size: input parameter for print_diagonal
  * Author:Daniel Yamoah
  */
-void print_square(int n)
+void print_square(int size)
 {
 	int i = 0, m;
 
-	while (i < n && n > 0)
+	while (i < size && size > 0)
 	{
 		m = 0;
 		while (m < n)

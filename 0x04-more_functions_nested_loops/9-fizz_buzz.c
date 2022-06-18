@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
  * main - for fizz_buzz printing
- * Return: 0 .
+ * Return: 0.
  * Author: Daniel Yamoah
  */
 int main(void)
 {
 	int i = 0;
+
 	while (i < 100)
 	{
 		if (i % 3 == 0 && i % 5 == 0)

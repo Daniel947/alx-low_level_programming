@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * print_numbers - functions for printing numbers
- * Return: 0 or 1
- * Author: Daniel Yamoah 
+ * Return: void
+ * Author: Daniel Yamoah
  */
 void print_numbers(void)
 {
