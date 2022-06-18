@@ -2,7 +2,7 @@
 /**
  * print_numbers - functions for printing numbers
  * Return: void
- * Author: Daniel Yamoah 
+ * Author: Daniel Yamoah
  */
 void print_most_numbers(void)
 {
