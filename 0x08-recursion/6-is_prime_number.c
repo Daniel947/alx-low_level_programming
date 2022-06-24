@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * is_prime_number - function for checking prime numbers.
+ * check_prime -subfunction for checking prime number
  * @n : input parameter
  * Return : 0 or 1.
  * Author : Daniel Yamoah
@@ -8,13 +9,9 @@
 int is_prime_number(int n)
 {
 	return (check_prime(n, 2));
-
 }
-/**
- * check_prime - actual checking prime number function
- * @n : 1st input parameter 
- * @res : 2nd input parameter
- */
+
+
 int check_prime(int n, int res)
 {
 	if (res >= n && n > 1)
