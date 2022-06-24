@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _put_recursion - Entry point
+ * _puts_recursion - Entry point
  * @s: input parameter
  * Author : Daniel Yamoah
  */
