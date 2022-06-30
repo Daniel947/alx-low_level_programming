@@ -4,8 +4,9 @@
  * @argc: argument count for main
  * @argv: array argument for main
  * Author: Daniel Yamoah
+ * Return: 0 success
  */
-int main(int argc, char* argv[])
+int main(int argc, char *argv[])
 {
 	int count;
 
